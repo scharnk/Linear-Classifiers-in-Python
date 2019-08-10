@@ -1,5 +1,5 @@
 <h1>Linear Classifiers in Python</h1>
-<p>This repository is a way of keeping track of methods learned during data camp's course <a href="https://www.datacamp.com/courses/linear-classifiers-in-python</a></p>
+<p>This repository is a way of keeping track of methods learned during data camp's course <a href="https://www.datacamp.com/courses/linear-classifiers-in-python"</a></p>
   
 <h3>The course consists of four chapters on: </h3>
 <ol>
